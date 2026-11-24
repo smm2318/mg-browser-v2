@@ -111,3 +111,18 @@ Use official APIs and supported integration methods where available. Respect Goo
 ## 5. Architecture
 - Keep frontend and backend responsibilities separated.
 - Use PostgreSQL
+  
+## 6. Screenshots and Visual Documentation
+- Capture real screenshots of the MG Browser application on both desktop (PC) and mobile devices (Android and iOS).
+- Screenshots must show the actual running application, not mockups or concept designs.
+- Capture screenshots of important screens, features, and user interfaces.
+- Use high-quality screenshots with appropriate resolution.
+- Save screenshots inside a dedicated `screenshots/` directory in the repository.
+- Organize screenshots into separate `desktop/` and `mobile/` folders.
+- Include screenshots in the project's README files to demonstrate the actual application.
+- Update screenshots whenever major UI changes are made.
+- Never use screenshots from other browsers or unrelated applications.
+- If a platform is not available for testing, clearly indicate that its screenshots are pending.
+- Do not fabricate screenshots or present unfinished interfaces as completed features.
+
+**The goal is to visually document MG Browser on both PC and mobile throughout development.**
